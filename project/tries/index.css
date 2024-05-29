@@ -1,0 +1,19 @@
+h1{
+    margin-top : 50px;
+    margin-bottom : 50px;
+
+    position: relative;
+    left : 240px;
+}
+
+.pl{
+    width : 50%;
+    position: relative;
+    left : 240px;
+}
+.l{
+    width : 50%;
+    position: relative;
+    left : 200px;
+
+}
